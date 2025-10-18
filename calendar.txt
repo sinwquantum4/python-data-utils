@@ -1,0 +1,2 @@
+# Planning
+Ensure all API endpoints return expected HTTP status codes
